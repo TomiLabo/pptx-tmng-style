@@ -33,7 +33,7 @@
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST :sunglasses:
+> PLEASE YOUR PULL REQUEST 😎
 
 ### 桃色背景
 
@@ -43,7 +43,7 @@
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST :sunglasses:
+> PLEASE YOUR PULL REQUEST 😎
 
 ### 水色背景
 
@@ -53,7 +53,7 @@
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST :sunglasses:
+> PLEASE YOUR PULL REQUEST 😎
 
 ### 緑色背景
 
@@ -63,8 +63,8 @@
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST :sunglasses:
+> PLEASE YOUR PULL REQUEST 😎
 
 - - -
 
-**[:back: Back to Top](../README.md)**
+**[↩ Back to Index](../../README.md)**

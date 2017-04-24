@@ -2,7 +2,7 @@
 
 ## Rule list
 
-  1. [Colors](./rules/colors.md)
+  1. [Colors](./rules/colors/colors.md)
   1. [FontSize](./rules/font_size.md)
   1. [FontFamily](./rules/font_family.md)
 
