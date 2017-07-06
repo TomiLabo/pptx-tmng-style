@@ -4,8 +4,7 @@
 
   1. [Colors](./rules/colors/colors.md)
   1. [HeadlineStyle](./rules/headline/headline.md)
-  1. [FontSize](./rules/font_size.md)
-  1. [FontFamily](./rules/font_family.md)
+  1. [TextStyle](./rules/textstyle/textstyle.md)
 
 CONTRIBUTE
 ---
