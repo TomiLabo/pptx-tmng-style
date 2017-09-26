@@ -29,11 +29,11 @@
 
 |色|カラーコード|用途|
 |:---:|:---:|:---:|
-|![GrayBack](./elements/gray_back.png)|`#F2F2F2`|定義付け、すでに黄色背景が存在するとき利用|
+|![GrayBack](./elements/gray_back.png)|`#F2F2F2`|定義付け、すでに黄色背景が存在するとき利用、各ページのヘッダにもこの色を使う|
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST 😎
+> ![](./elements/example1.png)
 
 ### 桃色背景
 
@@ -53,7 +53,7 @@
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST 😎
+> ![](./elements/example4.png)
 
 ### 緑色背景
 
@@ -63,7 +63,7 @@
 
 - Ex.
 
-> PLEASE YOUR PULL REQUEST 😎
+> ![](./elements/example3.png)
 
 - - -
 
