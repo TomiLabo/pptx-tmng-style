@@ -23,7 +23,7 @@
 
 > ![DefineExample](./elements/define_example.png)
 
-  - 2016年度01月版 `zshの概要` から
+  - s12t241 2017年度01月版 `zshの概要` から
 
 ### 灰色背景
 
@@ -34,6 +34,8 @@
 - Ex.
 
 > ![](./elements/example1.png)
+
+  - s12t241 2016年度10月版 `Vim-conf 参加報告` から
 
 ### 桃色背景
 
@@ -55,6 +57,8 @@
 
 > ![](./elements/example4.png)
 
+  - s14t212 2017年度09月版 `中間発表から`
+
 ### 緑色背景
 
 |色|カラーコード|用途|
@@ -64,6 +68,8 @@
 - Ex.
 
 > ![](./elements/example3.png)
+
+  - s14t212 2017年度09月版 `中間発表から`
 
 - - -
 
