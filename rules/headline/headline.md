@@ -7,9 +7,15 @@
 |大項目|<font size="60px">◎</font>|![Blue](../colors/elements/blue.png)|#0000FF|28px~24px|`0xE2978E`|
 |小項目|<font size="60px">○</font>|![Blue](../colors/elements/blue.png)|#0000FF|24px~20px|`0xE2978B`|
 
-- Ex.
+- Ex.1
 
-> PLEASE YOUR PULL REQUEST 😎
+![](./elements/example1.png)
+
+- - -
+
+- Ex.2
+
+![](./elements/example2.png)
 
 - - -
 
