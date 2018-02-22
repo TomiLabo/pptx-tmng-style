@@ -27,7 +27,7 @@
 
 #### ページ全体が対象の例
 
-> ![](./elements/example2.png)
+> <img src="./elements/example2.png" width="450px">
 
   - s16g464 2017年度09月版 `修士中間` から
 
